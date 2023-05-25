@@ -1,12 +1,5 @@
 [
   {
-    "id": 11,  
-    "title": "HAPPY THOUGHTS API ",
-    "description": "To be used for frontend Happy Thoughts Project.",
-    "url": "https://github.com/lindanorberg/project-happy-thoughts-api",
-    "tags": ["MongoDB", "Express", "Google cloud", "Restful API", "Postman", "JavaScript ES6"]
-  },
-  {
     "id": 12,  
     "title": "GUESS WHO",
     "description": "A game I did to learn about JavaScript",
@@ -25,6 +18,13 @@
     "title": "LABYRINTH",
     "description": "A text based game created by pair programming to learn Redux",
     "url": "https://lostducklabyrinth.netlify.app/",
-    "tags": ["React", "Redux", "API", "Restful API", "JavaScript ES6", "Pair programming", "Styled Components" ]
+    "tags": ["React", "Redux", "API", "JavaScript ES6", "Pair programming", "Styled Components" ]
+  }, 
+  {
+    "id": 15,  
+    "title": "MUSIC RELEASES",
+    "description": "Fetching data from Spotifys API and present it",
+    "url": "https://sofia-linda-project-music-release.netlify.app/",
+    "tags": ["React", "API", "JavaScript ES6", "Pair programming" ]
   }
 ]

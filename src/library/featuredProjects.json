@@ -5,7 +5,7 @@
       "title-description": "A twitter like feed of happy thoughts",
       "project-description": "Built in react, using an API for fetching and sending thoughts and counting hearts",
       "repo-name": "project-happy-thoughts",
-      "netlify": "https://frabjous-nasturtium-a2ae42.netlify.app",
+      "netlify": "https://github.com/lindanorberg/project-happy-thoughts",
       "tags": ["HTML5", "CSS3", "JavaScript ES6", "React", "APIs"],
       "image": "/images/happy-thoughts.png"
     },
