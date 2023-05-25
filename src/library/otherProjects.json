@@ -22,9 +22,9 @@
   }, 
   {
     "id": 15,  
-    "title": "MUSIC RELEASES",
-    "description": "Fetching data from Spotifys API and present it",
-    "url": "https://sofia-linda-project-music-release.netlify.app/",
+    "title": "PRESENTING MOVIES",
+    "description": "Fetching data from API and presenting it in a multipage site",
+    "url": "https://linda-and-marias-movies-app.netlify.app/",
     "tags": ["React", "API", "JavaScript ES6", "Pair programming" ]
   }
 ]
